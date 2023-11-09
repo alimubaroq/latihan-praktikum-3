@@ -19,5 +19,5 @@
 
 ## Screenshot Hasil
 ![Alt text](image.png)
-![Alt text](image1.png)
+![Alt text](image-2.png)
 
