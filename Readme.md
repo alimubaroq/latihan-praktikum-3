@@ -18,5 +18,6 @@
 - Program ini menghitung total keuntungan selama 8 bulan berjalan.
 
 ## Screenshot Hasil
-- [Masukkan gambar screenshot di sini]
+![Alt text](image.png)
+![Alt text](image1.png)
 
